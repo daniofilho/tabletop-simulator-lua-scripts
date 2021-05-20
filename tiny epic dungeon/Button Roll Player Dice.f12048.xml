@@ -1,0 +1,10 @@
+<button 
+  onClick="rollPlayerDice" 
+  position="0 -100" 
+  width="200" 
+  height="100"
+  fontSize="20"
+  alignment="LowerCenter"
+>
+  Roll Player Dice
+</button>
